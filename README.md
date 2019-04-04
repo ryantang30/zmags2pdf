@@ -1,4 +1,4 @@
-# zmag2pdf
+# zmags2pdf
 Python Tool to convert [zmags.com](https://zmags.com) magazines into a local PDF copy
 
 ## Why?
